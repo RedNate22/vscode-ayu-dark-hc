@@ -1,29 +1,18 @@
 ![vscode-ayu](assets/header.png)
 
-> Source from: https://github.com/dempfi/ayu
+> Forked from: https://github.com/ayu-theme/vscode-ayu
+> Original source from: https://github.com/dempfi/ayu
 
-A simple theme with bright colors and comes in three versions — *dark*, *light* and *mirage* for all day long comfortable work.
+This is a high contrast dark variant of the original Ayu theme for Visual Studio Code.
 
-> Note that this isn't a theme maintained by the original [Ayu theme](https://github.com/dempfi/ayu) author so please report issues related to this theme here.
+> This project is not maintained by the original Ayu theme author [Ayu theme](https://github.com/dempfi/ayu). Please report issues related to this version here only if they concern this fork specifically.
+> This fork exists for my own personal customisation and preference; unrelated feedback or requests may be disregarded.
 
 ## Install
 
-```shell
-ext install ayu
-```
-
-Then go to `Preferences > Color Theme > Ayu Light(or Ayu Dark, or Ayu Mirage)`.
-If you want to setup File Icon, then go to `Preferences > File Icon Theme > Ayu`.
+This project is currently under development. I may publish it on the marketplace in future.
 
 ## Screenshots
-
-#### Light
-![Light](assets/light.png)
-![Light Bordered](assets/light-bordered.png)
-
-#### Mirage
-![Mirage](assets/mirage.png)
-![Mirage Bordered](assets/mirage-bordered.png)
 
 #### Dark
 ![Dark](assets/dark.png)
