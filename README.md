@@ -16,17 +16,26 @@ This project is currently under development. I may publish it on the marketplace
 ## Screenshots
 
 #### Dark
+
 ![Dark](assets/dark.png)
 ![Dark Bordered](assets/dark-bordered.png)
 
 ## Development
 
 Install dependencies
+
 ```shell
 npm install
 ```
 
 Update themes and build VSIX package
+
 ```shell
 npm run build && npm run package
+```
+
+Build package locally
+
+```shell
+vsce package
 ```
