@@ -1,6 +1,7 @@
 ![vscode-ayu](assets/header.png)
 
 > Forked from: https://github.com/ayu-theme/vscode-ayu
+
 > Original source from: https://github.com/dempfi/ayu
 
 This is a high contrast dark variant of the original Ayu theme for Visual Studio Code.
