@@ -7,7 +7,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ayu-theme/vscode-ayu"
+    "url": "https://github.com/RedNate22/vscode-ayu-dark-hc"
   },
   "bugs": {
     "url": "https://github.com/RedNate22/vscode-ayu-dark-hc",
@@ -21,15 +21,18 @@
   ],
   "keywords": [
     "theme",
-    "ayu"
+    "ayu",
+    "high contrast",
+    "hc",
+    "dark"
   ],
-  "homepage": "https://github.com/ayu-theme/vscode-ayu",
+  "homepage": "https://github.com/RedNate22/vscode-ayu-dark-hc",
   "icon": "assets/logo.png",
   "contributes": {
     "themes": [
       {
         "label": "Ayu Dark High Contrast",
-        "uiTheme": "vs-dark",
+        "uiTheme": "hc-black",
         "path": "./ayu-dark-high-contrast.json"
       }
     ]
