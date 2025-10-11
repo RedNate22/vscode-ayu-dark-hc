@@ -7,11 +7,16 @@ This is a high contrast dark variant of the original Ayu theme for Visual Studio
 
 > This project is not maintained by the original Ayu theme author [Ayu theme](https://github.com/dempfi/ayu). Please report issues related to this version here only if they concern this fork specifically.
 
-> Additionally, this fork exists for my own personal customisation and preference; unrelated feedback or requests may be disregarded.
+Additionally, this fork exists for my own personal customisation and preference; unrelated feedback or requests may be disregarded, however, if you have any issues related specifically to this fork, I will happily take issue reports / pull requests.
 
 ## Install
 
-This project is currently under development. I may publish it on the marketplace in future.
+This project is not currently on the marketplace. To install:
+
+1. Download the repository (zip or clone)
+2. Open the terminal and run `vsce package`
+3. Go to "Extensions" tab, and select "Install from VSIX"
+4. Select the newly created package (located in the code directory)
 
 ## Screenshots
 
@@ -34,7 +39,7 @@ Update themes and build VSIX package
 npm run build && npm run package
 ```
 
-Build package locally
+Build package locally to install
 
 ```shell
 vsce package
