@@ -14,16 +14,13 @@ Additionally, this fork exists for my own personal customisation and preference;
 This project is not currently on the marketplace. To install:
 
 1. Download the repository (zip or clone)
-2. Open the terminal and run `vsce package`
+2. Open the terminal (in project root) and run `vsce package`
 3. Go to "Extensions" tab, and select "Install from VSIX"
 4. Select the newly created package (located in the code directory)
 
 ## Screenshots
 
-#### Dark
-
-![Dark](assets/dark.png)
-![Dark Bordered](assets/dark-bordered.png)
+![vscode-ayu-high-contrast](assets/highcontrast.png)
 
 ## Development
 
