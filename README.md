@@ -7,7 +7,7 @@ This is a high contrast dark variant of the original Ayu theme for Visual Studio
 
 > This project is not maintained by the original Ayu theme author [Ayu theme](https://github.com/dempfi/ayu). Please report issues related to this version here only if they concern this fork specifically.
 
-Additionally, this fork exists for my own personal customisation and preference; unrelated feedback or requests may be disregarded.
+> Additionally, this fork exists for my own personal customisation and preference; unrelated feedback or requests may be disregarded.
 
 ## Install
 
